@@ -1,6 +1,6 @@
 # clouty-email
 
-Демо: [email](https://ann-pavlova.github.io/clouty-email/)
+Демо: https://ann-pavlova.github.io/clouty-email/
 
 [![clouty-email](https://i.imgur.com/q27huVp.png)](https://ann-pavlova.github.io/clouty-email/)
 
